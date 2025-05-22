@@ -1,6 +1,5 @@
 'use strict';
-const square = require("../lib/grains.js")
-const total = require("../lib/grains.js")
+const { square, total } = require("../lib/grains.js");
 
 describe("Grains", function () {
 
