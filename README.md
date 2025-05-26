@@ -2,6 +2,9 @@
 languages: javascript
 tags: math
 ---
+# README by Sinem Kilicdere Moschos
+
+This project implements a classic grains-on-a-chessboard problem using JavaScript. The main goal was to calculate how many grains of wheat are on a given square, where the number doubles on each subsequent square, starting with one grain on the first. It also includes a function to calculate the total number of grains across all 64 squares. Precision was important for this task, so BigInt was used to handle very large numbers. The project uses Jasmine for testing, and all tests have passed successfully, confirming the accuracy of the implementation.
 
 # Grains
 
